@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-blue {
+  background: linear-gradient(98deg, #60bbee 0%, #0a72ad 100%);
+}
+.dark-blue-gradient {
+  background: linear-gradient(98deg, #399fd8 0%, #0775b4 30%, #003756 99%);
+}
+.gradient-black {
+  background: linear-gradient(220deg, #474747 0%, #222222 42%);
+}
